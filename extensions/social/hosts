@@ -2044,7 +2044,6 @@
 127.0.0.1 hk.linkedin.com
 127.0.0.1 ib.linkedin.com
 127.0.0.1 id.linkedin.com
-127.0.0.1 ie.linkedin.com
 127.0.0.1 il.linkedin.com
 127.0.0.1 in.linkedin.com
 127.0.0.1 intro.linkedin.com
@@ -2057,7 +2056,6 @@
 127.0.0.1 ke.linkedin.com
 127.0.0.1 kr.linkedin.com
 127.0.0.1 learning.linkedin.com
-127.0.0.1 linkedin.com
 127.0.0.1 linkedinforgood.linkedin.com
 127.0.0.1 lists.linkedin.com
 127.0.0.1 live.linkedin.com
@@ -2113,7 +2111,6 @@
 127.0.0.1 si.linkedin.com
 127.0.0.1 smallbusiness.linkedin.com
 127.0.0.1 specialedition.linkedin.com
-127.0.0.1 static.licdn.com
 127.0.0.1 studentcareers.linkedin.com
 127.0.0.1 students.linkedin.com
 127.0.0.1 ta.linkedin.com
@@ -2130,8 +2127,6 @@
 127.0.0.1 veterans.linkedin.com
 127.0.0.1 volunteer.linkedin.com
 127.0.0.1 ws.linkedin.com
-127.0.0.1 www.licdn.com
-127.0.0.1 www.linkedin.com
 127.0.0.1 yardim.linkedin.com
 127.0.0.1 za.linkedin.com
 
